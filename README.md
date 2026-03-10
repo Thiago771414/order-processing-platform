@@ -21,7 +21,7 @@ A full-stack food delivery platform demonstrating how a distributed system handl
 
 Web interface deployed on Netlify:
 
-https://thiagoreislimasds1.netlify.app/
+https://thiagoreislimasds2.netlify.app/
 
 ⚠ Important note
 
