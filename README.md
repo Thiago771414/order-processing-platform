@@ -1,13 +1,12 @@
 # Food Delivery Platform – Full-Stack Monorepo
-
-Java Spring Boot API + React Web + React Native Mobile
-
-A full-stack food delivery platform demonstrating how a distributed system handles orders from mobile devices through backend processing and delivery workflow management.
-
 ![Java](https://img.shields.io/badge/Backend-SpringBoot-green)
 ![React](https://img.shields.io/badge/Web-React-blue)
 ![React Native](https://img.shields.io/badge/Mobile-ReactNative-purple)
 ![Monorepo](https://img.shields.io/badge/Architecture-Monorepo-orange)
+
+Java Spring Boot API + React Web + React Native Mobile
+
+A full-stack food delivery platform demonstrating how a distributed system handles orders from mobile devices through backend processing and delivery workflow management.
 
 ---
 
