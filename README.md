@@ -134,7 +134,9 @@ Remove Order From Queue
 
 Restaurant operators can visualize incoming orders through the React dashboard.
 
-![Web](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/SDS2_01.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_01.jpg" width="200">
+</p>
 
 ---
 
@@ -142,7 +144,9 @@ Restaurant operators can visualize incoming orders through the React dashboard.
 
 Users choose products and view order information.
 
-![Products](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/SDS2_02.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_02.jpg" width="200">
+</p>
 
 ---
 
@@ -150,7 +154,9 @@ Users choose products and view order information.
 
 The system allows customers to select delivery locations using map integration.
 
-![Map](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/SDS2_03.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_03.jpg" width="200">
+</p>
 
 ---
 
