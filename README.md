@@ -134,29 +134,19 @@ Remove Order From Queue
 
 Restaurant operators can visualize incoming orders through the React dashboard.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_01.jpg" width="200">
-</p>
+# Demo
 
----
+<div align="center">
 
-## Product Selection
 
-Users choose products and view order information.
+| Web Interface (React) | Product & Location (Mobile) |
+| :---: | :---: |
+| <a href="https://www.linkedin.com/posts/thiago-lima-2a5896166_reactnative-activity-6818886219619995648--Qql?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_01.jpg" width="350"></a> | <a href="https://www.linkedin.com/posts/thiago-lima-2a5896166_java-springboot-activity-6797310232222601216-v5i-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_02.jpg" width="180"></a> <a href="https://www.linkedin.com/posts/thiago-lima-2a5896166_java-springboot-activity-6797310232222601216-v5i-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4"><img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_03.jpg" width="180"></a> |
+| [🌐 Ver Dashboard Web](https://www.linkedin.com/posts/thiago-lima-2a5896166_reactnative-activity-6818886219619995648--Qql?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4) | [📱 Ver Funcionamento Mobile](https://www.linkedin.com/posts/thiago-lima-2a5896166_java-springboot-activity-6797310232222601216-v5i-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4) |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_02.jpg" width="200">
-</p>
+**Click on the image above to watch the demonstration**
 
----
-
-## Location Selection
-
-The system allows customers to select delivery locations using map integration.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS2_03.jpg" width="200">
-</p>
+</div>
 
 ---
 
